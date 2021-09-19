@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aryanmore07.github.io/csb-mcd0z/static/css/main.3bde77a9.chunk.css",
+    "main.js": "https://aryanmore07.github.io/csb-mcd0z/static/js/main.0e6c9c95.chunk.js",
+    "main.js.map": "https://aryanmore07.github.io/csb-mcd0z/static/js/main.0e6c9c95.chunk.js.map",
+    "runtime-main.js": "https://aryanmore07.github.io/csb-mcd0z/static/js/runtime-main.62c3fde8.js",
+    "runtime-main.js.map": "https://aryanmore07.github.io/csb-mcd0z/static/js/runtime-main.62c3fde8.js.map",
+    "static/js/2.b43b3f24.chunk.js": "https://aryanmore07.github.io/csb-mcd0z/static/js/2.b43b3f24.chunk.js",
+    "static/js/2.b43b3f24.chunk.js.map": "https://aryanmore07.github.io/csb-mcd0z/static/js/2.b43b3f24.chunk.js.map",
+    "index.html": "https://aryanmore07.github.io/csb-mcd0z/index.html",
+    "static/css/main.3bde77a9.chunk.css.map": "https://aryanmore07.github.io/csb-mcd0z/static/css/main.3bde77a9.chunk.css.map",
+    "static/js/2.b43b3f24.chunk.js.LICENSE.txt": "https://aryanmore07.github.io/csb-mcd0z/static/js/2.b43b3f24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62c3fde8.js",
+    "static/js/2.b43b3f24.chunk.js",
+    "static/css/main.3bde77a9.chunk.css",
+    "static/js/main.0e6c9c95.chunk.js"
+  ]
+}
